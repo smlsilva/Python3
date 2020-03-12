@@ -3,6 +3,6 @@ print("É um Prazer te conhecer, {}!".format(nome))
 
 
 prin(int(7))
-float(7)
-bool(and)
+print(float(7))
+bool(True)
 str("sd")
